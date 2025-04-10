@@ -1,0 +1,5 @@
+
+esquid:HiddenFieldCheck@">Rename "derivative" which hides the field declared at line 49.(³²åıÿÿÿÿ
+1squid:S1220""Move this file to a named package.
+isquid:S3776="RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(íşğı
+hsquid:S00117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¡‹S

@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="NER" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="NER" />
+    <module name="NER" />
+    <option name="PROGRAM_PARAMETERS" value="../data/train.txt ../data/dev.txt -print" />
+    <option name="VM_PARAMETERS" value="-Xmx1G" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

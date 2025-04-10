@@ -1,0 +1,103 @@
+
+4squid:S1643"Use a StringBuilder instead.(¤’¦¤
+^squid:S1192ı"FDefine a constant instead of duplicating this literal "UTF-8" 7 times.(™‰áÑ
+usquid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÁñÛşÿÿÿÿ
+psquid:S2293_"YReplace the type specification in this constructor call with the diamond operator ("<>").(ıÃÖ
+osquid:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(ĞşÄ^
+usquid:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ƒÁéúÿÿÿÿ
+usquid:S2293n"YReplace the type specification in this constructor call with the diamond operator ("<>").(£ƒÁéúÿÿÿÿ
+fsquid:S4042¥"IUse "java.nio.Files#delete" here for better messages on error conditions.(•¹ÊÁûÿÿÿÿ
+fsquid:S4042¨"IUse "java.nio.Files#delete" here for better messages on error conditions.(‰¾æ‚ıÿÿÿÿ
+dsquid:S2095¾"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Ã±ı
+gsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(ş¯†ÿÿÿÿÿ
+gsquid:CommentedOutCodeLine~"<This block of commented-out lines of code should be removed.(’Îµşÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(­“Êğ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(…ú€
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÈÁÛàüÿÿÿÿ
+T
+squid:S106 "9Replace this use of System.out or System.err by a logger.(Ìã»ıÿÿÿÿ
+T
+squid:S106)"9Replace this use of System.out or System.err by a logger.(¾ÀãÎÿÿÿÿÿ
+N
+squid:S106-"9Replace this use of System.out or System.err by a logger.(êæ¡k
+T
+squid:S106M"9Replace this use of System.out or System.err by a logger.(©ç¿İıÿÿÿÿ
+O
+squid:S106O"9Replace this use of System.out or System.err by a logger.(ä´ûÑ
+O
+squid:S106R"9Replace this use of System.out or System.err by a logger.(ç¥Æá
+O
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(˜§§H
+U
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(ïù¯¯ûÿÿÿÿ
+P
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(˜âÏ
+P
+squid:S106Æ"9Replace this use of System.out or System.err by a logger.(…Ğäì
+U
+squid:S106×"9Replace this use of System.out or System.err by a logger.(è”ƒİøÿÿÿÿ
+P
+squid:S106å"9Replace this use of System.out or System.err by a logger.(¢‰é±
+P
+squid:S106î"9Replace this use of System.out or System.err by a logger.(àûãÑ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê¯¥°
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤°“Şşÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ëº¡êûÿÿÿÿ
+U
+squid:S106½"9Replace this use of System.out or System.err by a logger.(âşÚûÿÿÿÿ
+U
+squid:S106Ê"9Replace this use of System.out or System.err by a logger.(ãèÏÜüÿÿÿÿ
+O
+squid:S106Ï"9Replace this use of System.out or System.err by a logger.(ÌÃöX
+P
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(ğÓ˜ø
+P
+squid:S106İ"9Replace this use of System.out or System.err by a logger.(õ’ìª
+U
+squid:S106é"9Replace this use of System.out or System.err by a logger.(‰ÃÊ“ÿÿÿÿÿ
+vsquid:S1488ò"_Immediately return this expression instead of assigning it to the temporary variable "encoded".(É‚»v
+|squid:S1488ú"_Immediately return this expression instead of assigning it to the temporary variable "decoded".(è‘Ôİıÿÿÿÿ
+Asquid:S2440›"$Remove this instantiation of "MEMM".(©Í‰¢øÿÿÿÿ
+Zsquid:S1226"CIntroduce a new variable instead of reusing the parameter "partId".(È“¬
+Usquid:S3400Z"9Remove this method and declare a constant for this value.(ÙÃ¤êûÿÿÿÿ
+Psquid:S3400w"9Remove this method and declare a constant for this value.(ß€µï
+Osquid:S3400}"9Remove this method and declare a constant for this value.(òãót
+1squid:S1220""Move this file to a named package.
+Msquid:S2209œ"5Change this instance-reference to a static reference.(‚³ô¡
+ksquid:S00100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½“³½ûÿÿÿÿ
+fsquid:S00100v"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¤à 
+fsquid:S00100|"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œöÍğ
+Esquid:S1172†"-Remove this unused method parameter "partId".(¸…¦¾
+Dsquid:S1172Ø",Remove this unused method parameter "email".(÷ã® 
+]squid:S2259á"@A "NullPointerException" could be thrown; "md" is nullable here.(äÒ‹»üÿÿÿÿ
+>squid:S1168’"&Return an empty array instead of null.(¥¹ï
+esquid:S21537"IRemove the boxing to "Integer"; The argument is already of the same type.(½®á§úÿÿÿÿ
+isquid:S00117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‹Óœ
+isquid:S00117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰Ğ„Ë
+jsquid:S00117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸…¦¾
+osquid:S00117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ú™­úÿÿÿÿ
+osquid:S00117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²†Ø†ûÿÿÿÿ
+Vsquid:UselessImportCheck"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/
+Xsquid:UselessImportCheck"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ
+Usquid:UselessImportCheck"1Remove this unused import 'java.io.StringReader'.(¡Ö£
+[squid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
+|squid:S1149¸"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÏªÎ£ÿÿÿÿÿ
+|squid:S1149Ú"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ñå“äúÿÿÿÿ
+wsquid:S1149ƒ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+|squid:S1149§"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ı¯œ˜ùÿÿÿÿ
+|squid:S1149ã"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+W
+squid:S899¥";Do something with the "boolean" value returned by "delete".(•¹ÊÁûÿÿÿÿ
+W
+squid:S899¨";Do something with the "boolean" value returned by "delete".(‰¾æ‚ıÿÿÿÿ
+8squid:S21293"!Remove this "Integer" constructor(Ìéïç
+=squid:S21297"!Remove this "Integer" constructor(½®á§úÿÿÿÿ
+hsquid:S3457O"Q%n should be used in place of \n to produce the platform-specific line separator.(ä´ûÑ
+nsquid:S3457ã"Q%n should be used in place of \n to produce the platform-specific line separator.(ñä³ûÿÿÿÿ
+isquid:S3457ä"Q%n should be used in place of \n to produce the platform-specific line separator.(×ï•
